@@ -2,14 +2,14 @@
     "id": "mabe",
     "navn": "Martin Bregnhøi",
     "alder": 56,
-    "mail":"",
-    "mobil":"",
+    "mail":"mabe@kea.dk",
+    "mobil":"28292659",
     "snapchat":"",
-    "bopæl":"",
-    "civilstatus":"",
-    "køn":"",
-    "profession":"",
-    "interesser":"",
+    "bopæl":"København",
+    "civilstatus":"gift",
+    "køn":"mand",
+    "profession":"underviser",
+    "interesser":"musik",
     "kæledyr":"",
-    "livret":""
+    "livret":"mad"
 }
